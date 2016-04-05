@@ -1,6 +1,6 @@
 object FArray: TFArray
-  Left = 310
-  Top = 144
+  Left = 295
+  Top = 124
   Width = 823
   Height = 437
   Caption = 'Arrays - Vetores'

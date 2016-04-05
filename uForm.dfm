@@ -1,6 +1,6 @@
 object FPrinc: TFPrinc
-  Left = 240
-  Top = 136
+  Left = 228
+  Top = 117
   Width = 927
   Height = 480
   Caption = 'Treinamentos Array, Listas, Filas'
